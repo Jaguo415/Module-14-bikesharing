@@ -1,5 +1,8 @@
 # Module-14-bikesharing
 
+
+Dashboard/Story Link: https://public.tableau.com/app/profile/jack.guo4626/viz/Module-14-Challenge_16323349690550/Story1?publish=yes
+
 ## Convert Tripduration to Datetime format with Pandas
 
 <img width="896" alt="Screen Shot 2021-09-22 at 11 31 24 AM" src="https://user-images.githubusercontent.com/83923903/134401323-dd496535-2e16-4d31-b764-3b5b59e51291.png">
